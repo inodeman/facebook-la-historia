@@ -1,0 +1,319 @@
+1
+00:00:00,060 --> 00:00:09,180
+Hay una luz que conoces mejor que la de tu propia cocina. Es azul. Aparece en el bolsillo a las dos de la mañana, cuando deberías estar durmiendo.
+
+2
+00:00:09,180 --> 00:00:17,260
+Detrás de esa luz hay una compañía que empezó en un cuarto de universidad y terminó en el centro de la vida de miles de millones de personas.
+
+3
+00:00:17,260 --> 00:00:28,000
+Esta es la historia de Facebook. No la de un logo. La de una idea simple, y peligrosa: que la vida social podía ordenarse, medirse y, con el tiempo, venderse.
+
+4
+00:00:28,000 --> 00:00:38,800
+En octubre de 2003, Mark Zuckerberg tiene diecinueve años y estudia en Harvard. Es un programador rápido, competitivo, y una noche convierte una pregunta en un sitio.
+
+5
+00:00:38,800 --> 00:00:48,460
+La pregunta parece un juego. Quién es más atractivo. El sitio se llama Facemash, y pone dos fotos de estudiantes, una junto a la otra, para que elijas.
+
+6
+00:00:48,460 --> 00:00:58,980
+Las fotos no se las dieron. Las toma de los directorios internos de las casas de Harvard, sin permiso. En horas el sitio se vuelve viral y la red de la universidad se tambalea.
+
+7
+00:00:58,980 --> 00:01:10,000
+La administración lo apaga. Zuckerberg enfrenta un proceso disciplinario. El sitio muere. La lección no. La intimidad de otra persona, puesta en una pantalla, es un imán.
+
+8
+00:01:10,000 --> 00:01:19,900
+Facemash no es Facebook. Es la chispa sucia. Ya existían Friendster y MySpace: amigos, perfiles recargados, spam y fama de escenario.
+
+9
+00:01:19,900 --> 00:01:30,340
+Zuckerberg no quiere un escenario. Quiere un directorio. Limpio. Real. Con tu nombre verdadero. Desde el principio, la identidad no es un detalle. Es el producto.
+
+10
+00:01:30,340 --> 00:01:44,600
+El 4 de febrero de 2004, desde un dormitorio de Harvard, se enciende thefacebook punto com. Eduardo Saverin pone dinero. Dustin Moskovitz programa. Chris Hughes lo explica. Andrew McCollum ayuda con el diseño.
+
+11
+00:01:44,600 --> 00:01:55,400
+La promesa cabe en una frase. Mira quién está en tu clase, en tu casa, en tu vida, y conéctate. En las primeras veinticuatro horas se registran más de mil doscientos estudiantes.
+
+12
+00:01:55,400 --> 00:02:05,530
+No hay famosos. No hay anonimato. Si estás, eres tú. En pocas semanas el campus se llena de perfiles. La red empieza a saltar de universidad en universidad.
+
+13
+00:02:05,530 --> 00:02:15,130
+En marzo llega a Stanford, a Columbia y a Yale. El truco no es solo técnico. Es social. Facebook no abre la puerta a todo el mundo. La cierra.
+
+14
+00:02:15,130 --> 00:02:24,550
+Solo entras si tu correo termina en punto edu. La escasez vuelve al sitio deseable. MySpace gritaba. Esto susurraba: aquí están los tuyos.
+
+15
+00:02:24,550 --> 00:02:36,630
+Ese año nace una disputa que el cine va a convertir en leyenda. Los hermanos Winklevoss y Divya Narendra dicen que Zuckerberg debía programar su red, HarvardConnection, y que usó la idea para la suya.
+
+16
+00:02:36,630 --> 00:02:50,570
+Años después hay demanda y, en 2008, un acuerdo: dinero y acciones. Las versiones no coinciden, y Zuckerberg ha dicho que la película se toma libertades serias. Hubo conflicto. Hubo pago. Y hubo un mito.
+
+17
+00:02:50,570 --> 00:03:02,610
+En el verano de 2004 el proyecto se muda a Palo Alto. Una casa. Cables por el suelo. Cajas de pizza. Sean Parker, el de Napster, entra y abre una puerta que vale más que el código.
+
+18
+00:03:02,610 --> 00:03:12,430
+Esa puerta es Peter Thiel. Invierte quinientos mil dólares y se queda con cerca del diez por ciento. Al año siguiente, Accel pone doce punto siete millones.
+
+19
+00:03:12,430 --> 00:03:22,950
+En 2005 compran el dominio facebook punto com por doscientos mil dólares y le quitan el «the» al nombre. Ya no es el directorio de una universidad. Empieza a ser una marca.
+
+20
+00:03:22,950 --> 00:03:33,190
+Hay otra regla silenciosa. Te piden el nombre real. No un apodo. No una máscara. Por eso tu madre te encuentra, tu clase te encuentra, tu pasado te encuentra.
+
+21
+00:03:33,190 --> 00:03:45,810
+También por eso la plaza es peligrosa para quien no puede pagar con su identidad. La red más grande del mundo no se diseñó para el anonimato. Se diseñó para que fueras verificable. Y lo verificable se anuncia mejor.
+
+22
+00:03:45,810 --> 00:03:59,210
+En septiembre de 2005 abren las preparatorias. En 2006, ciertas empresas. Y el 26 de septiembre de 2006 ocurre el salto: cualquiera mayor de trece años, con un correo válido, puede entrar.
+
+23
+00:03:59,210 --> 00:04:06,410
+La exclusividad que los hizo deseables se sacrifica por la escala. Facebook deja de ser un club. Se vuelve un país.
+
+24
+00:04:06,410 --> 00:04:18,170
+Tres semanas antes ya habían encendido el gesto que define al producto. El 5 de septiembre de 2006 nace el News Feed. Hasta ese día tú visitabas el perfil de un amigo, una puerta a la vez.
+
+25
+00:04:18,170 --> 00:04:30,050
+Ahora el perfil viene a ti. Todo junto. Quién terminó con quién. Qué foto. Qué grupo. En horas aparece una protesta: Estudiantes contra el News Feed. Crece a cientos de miles.
+
+26
+00:04:30,050 --> 00:04:41,190
+La gente se siente espiada por una máquina que ellos mismos alimentan. Zuckerberg publica una nota. En el fondo dice: cálmense, respiren, los escuchamos. Y no apaga el Feed.
+
+27
+00:04:41,190 --> 00:04:51,590
+Lo ajusta. Lo deja vivo. Porque entiende algo que todavía no queremos admitir. Nadie va a volver a caminar de perfil en perfil. El río gana. El río es Facebook.
+
+28
+00:04:51,590 --> 00:05:06,030
+Ese mismo año Yahoo ofrece cerca de mil millones de dólares. Zuckerberg dice que no. En 2007 Microsoft paga doscientos cuarenta millones por el uno punto seis por ciento. El mercado hace una cuenta obscena: unos quince mil millones.
+
+29
+00:05:06,030 --> 00:05:19,670
+En mayo de 2007 abren la plataforma a desarrolladores. Tu perfil se llena de granjas, mafias y regalos. Parece un juguete. Es un ensayo: otros construyen el hábito, Facebook se queda con la atención y con el mapa.
+
+30
+00:05:19,670 --> 00:05:30,650
+Ese año lanzan Beacon, que publica en tu Feed compras hechas en otros sitios. El sofá que acabas de pagar aparece delante de tus amigos. Beacon muere entre disculpas. La ambición no.
+
+31
+00:05:30,650 --> 00:05:44,190
+El lema de entonces cabe en una frase: muévete rápido y rompe cosas. Suena a juventud. Significa que la escala llega primero y la reparación, si llega, viene después. En 2008 cruzan cien millones de usuarios.
+
+32
+00:05:44,190 --> 00:05:53,990
+En febrero de 2009 llega el botón que va a entrenar a media humanidad. Me gusta. Un clic. Una dosis. Una señal que le dice al sistema qué quieres volver a ver.
+
+33
+00:05:53,990 --> 00:06:03,590
+No es un adorno. Es un microscopio apuntado a tus reflejos. Y las fotos se vuelven el tesoro. Recuerdos que vivían en una caja de zapatos ahora viven en un servidor.
+
+34
+00:06:03,590 --> 00:06:15,580
+Cumpleaños. Bebés. Protestas. La primera vez que alguien dice «nos vemos en Facebook», la calle y la pantalla se dan la mano. En julio de 2010 hay quinientos millones de personas activas al mes.
+
+35
+00:06:15,580 --> 00:06:28,320
+Ese octubre se estrena La red social. Un programador de sudadera se vuelve personaje de época. La película es brillante como drama y resbalosa como acta. Aun así fija algo verdadero: Facebook ya es un mito.
+
+36
+00:06:28,320 --> 00:06:37,220
+El 4 de octubre de 2012 anuncian mil millones de usuarios activos al mes. Más o menos, una de cada siete personas vivas entra a la misma plaza.
+
+37
+00:06:37,220 --> 00:06:47,340
+El 9 de abril de 2012 compran Instagram por unos mil millones de dólares. Muchos se ríen. Una aplicación de filtros, un equipo diminuto, sin un negocio claro.
+
+38
+00:06:47,340 --> 00:06:53,620
+Zuckerberg no está comprando filtros. Está comprando el lugar donde la cultura joven va a vivir. El teléfono.
+
+39
+00:06:53,620 --> 00:07:04,380
+El 18 de mayo de 2012 Facebook sale a bolsa. Treinta y ocho dólares por acción. Unos dieciséis mil millones recaudados. Una valoración por encima de los cien mil millones.
+
+40
+00:07:04,380 --> 00:07:13,000
+Es una de las salidas más esperadas de la historia de la tecnología. También es un tropiezo. Nasdaq falla el día del estreno. La acción no despega.
+
+41
+00:07:13,000 --> 00:07:22,540
+En los meses siguientes pierde más de la mitad de su valor. El miedo tiene un nombre corto. Móvil. Facebook nació en el escritorio, y el mundo ya vive en el bolsillo.
+
+42
+00:07:22,540 --> 00:07:35,900
+Luego hace lo que pocos gigantes asustados consiguen. Reescribe el producto. Aplicaciones nativas. Anuncios en la pantalla pequeña, medidos al milímetro. Para 2013 el móvil ya es el negocio. La acción vuelve.
+
+43
+00:07:35,900 --> 00:07:45,120
+En febrero de 2014 compran WhatsApp por unos diecinueve mil millones de dólares. Países enteros donde esa aplicación es, en la práctica, internet.
+
+44
+00:07:45,120 --> 00:07:55,800
+El mismo año compran Oculus, la apuesta de la realidad virtual, por alrededor de dos mil millones. Ya no quieren ser un sitio web. Quieren ser la capa entre tú y los demás.
+
+45
+00:07:55,800 --> 00:08:05,480
+Toda capa cobra un peaje. En 2016 la plaza se llena de una palabra incómoda: desinformación. El Feed no premia la verdad. Premia la reacción.
+
+46
+00:08:05,480 --> 00:08:17,460
+El enojo, el miedo y la burla hacen clic. El clic sostiene el negocio. No hace falta un complot de película. Basta un incentivo, repetido miles de millones de veces al día.
+
+47
+00:08:17,460 --> 00:08:27,240
+Ese año Instagram copia las historias de Snapchat. Veinticuatro horas y desaparecen. Snapchat imaginó el gesto. Instagram ya tenía a la gente.
+
+48
+00:08:27,240 --> 00:08:33,460
+La lección es fría. No siempre gana quien inventa. A veces gana quien ya tiene la llave de tu casa.
+
+49
+00:08:33,460 --> 00:08:46,240
+En marzo de 2018 el incentivo estalla con nombre propio. Cambridge Analytica. Una aplicación de personalidad cosecha datos de quien la instala y, por las reglas de entonces, también de sus amigos.
+
+50
+00:08:46,240 --> 00:08:58,700
+La cifra que la empresa termina reconociendo llega hasta ochenta y siete millones de perfiles. Esos datos alimentan trabajo político. El mundo dice una frase que parecía imposible: borrar Facebook.
+
+51
+00:08:58,700 --> 00:09:14,420
+Zuckerberg declara ante el Congreso de Estados Unidos. En 2019 la Comisión Federal de Comercio impone una multa de cinco mil millones de dólares. Es enorme. Para una máquina de ese tamaño, también puede leerse como un costo, no como una tumba.
+
+52
+00:09:14,420 --> 00:09:25,620
+En septiembre de 2021, Frances Haugen, exempleada, entrega documentos internos a la prensa y habla ante el Senado. Los papeles cuentan algo más incómodo que un accidente.
+
+53
+00:09:25,620 --> 00:09:39,240
+La empresa, en muchos casos, conocía el daño. El efecto sobre adolescentes. La forma en que el sistema empujaba lo extremo, porque lo extremo sostiene la mirada. Saber, y cambiar tarde, es el corazón del escándalo.
+
+54
+00:09:39,240 --> 00:09:50,640
+El 28 de octubre de 2021 Zuckerberg anuncia que la compañía ya no se llama Facebook. Se llama Meta. El argumento es un internet al que entras, no uno que miras de lejos.
+
+55
+00:09:50,640 --> 00:10:02,960
+Se invierten decenas de miles de millones de dólares. Gafas. Plazas vacías. Avatares que el público convierte en chiste. La realidad virtual acumula pérdidas que casi ningún negocio sobreviviría.
+
+56
+00:10:02,960 --> 00:10:15,740
+En 2022 la acción se cae. En 2023 Zuckerberg declara el año de la eficiencia. Hay decenas de miles de despidos. El metaverso no se borra, pero deja de ser la única apuesta.
+
+57
+00:10:15,740 --> 00:10:26,060
+Entran modelos propios de inteligencia artificial. Y en julio de 2023 nace Threads, una red de texto, justo cuando la gente busca otra plaza para hablar.
+
+58
+00:10:26,060 --> 00:10:33,020
+Otra vez la misma jugada. Si el hábito cambia de casa, compra la casa, o construye una antes del jueves.
+
+59
+00:10:33,020 --> 00:10:43,700
+El nombre no nació en un servidor. En las casas de Harvard se imprimía un facebook: un cuaderno con la foto y el nombre de cada residente, para reconocer a quien cruzabas en el pasillo.
+
+60
+00:10:43,700 --> 00:10:53,720
+Zuckerberg tomó ese objeto de papel y lo volvió infinito. Lo que antes se hojeaba en una casa, ahora se hojeaba en el mundo. El pasillo se hizo del tamaño del planeta.
+
+61
+00:10:53,720 --> 00:11:07,900
+En septiembre de 2011 el perfil se convierte en Timeline. Tu vida, ordenada como una crónica. Y ese mismo año Messenger se separa y se vuelve una aplicación propia. La conversación se muda al bolsillo y ya no vuelve.
+
+62
+00:11:07,900 --> 00:11:19,120
+Hay una frase que conviene decir despacio. Tú no pagas Facebook. Pagas con otra moneda. El anunciante compra un lugar en medio de tus amigos, y tu atención es el producto que se entrega.
+
+63
+00:11:19,120 --> 00:11:34,490
+El diseño se nota en un gesto pequeño. Entras a ver si alguien te escribió. Cuarenta minutos después conoces las vacaciones de una persona que no ves desde hace años, una pelea que no era tuya, y un objeto que no necesitabas. No falló. Funcionó.
+
+64
+00:11:34,490 --> 00:11:50,370
+Lo que vuelve imposible irse no es el escándalo. Es lo aburrido. El grupo de la escuela. El perro perdido del barrio. La cuna usada. El recordatorio de cumpleaños que se acuerda de tu tía mejor que tú. Eso se siente como cuidado. También es un anzuelo.
+
+65
+00:11:50,370 --> 00:12:08,390
+En 2019 la ambición deja de disfrazarse. Anuncian Libra, una moneda propia para mover dinero entre países desde la misma aplicación donde hablas con tu madre. Los reguladores la frenan. El proyecto se apaga. Queda la pista: no querían solo la plaza. Querían la caja.
+
+66
+00:12:08,390 --> 00:12:27,210
+Cuando TikTok enseña un gesto nuevo, el video corto que no termina, Instagram lo copia. Otra vez. Primero fueron las historias. Después, Reels. La lección se repite hasta volverse un método: observa dónde se va la mirada, y construye la puerta antes de que la gente aprenda a vivir sin ti.
+
+67
+00:12:27,210 --> 00:12:41,170
+Por eso borrar la cuenta duele más que cancelar un servicio. No estás apagando un programa. Estás apagando el álbum, el directorio y, a veces, el único hilo con alguien. La salida existe. Casi nunca se siente gratis.
+
+68
+00:12:41,170 --> 00:12:57,670
+En gran parte de América Latina, WhatsApp deja de ser una aplicación y se vuelve el teléfono. El grupo de la familia. El pedido de la fonda. La tarea de la escuela. La cita con el médico. Salir de esa empresa no es dejar un pasatiempo. Es salir de la vida práctica.
+
+69
+00:12:57,670 --> 00:13:13,450
+También está la luz en el techo. Alguien, boca arriba, a medianoche. El pulgar baja. El azul le pinta la cara. No busca nada. Busca el siguiente segundo. Esa es la obra, y es la herida: una máquina que convirtió el aburrimiento en un lugar.
+
+70
+00:13:13,450 --> 00:13:29,090
+Y cuando crees que ya lo viste todo, aparece un anuncio de algo que mencionaste cerca del teléfono, no dentro de él. A veces es coincidencia. A veces es un píxel invisible que te siguió a otra página. La plaza no termina en la aplicación. Te sigue a la calle.
+
+71
+00:13:29,090 --> 00:13:39,990
+En 2020, cuando el mundo se encierra, la plaza digital se vuelve la única calle. Cumpleaños por video. Clases. Duelo. Rumores que corren más rápido que el virus.
+
+72
+00:13:39,990 --> 00:13:47,610
+Facebook es refugio y es megáfono. Las dos cosas al mismo tiempo. Esa contradicción ya no se puede separar del producto.
+
+73
+00:13:47,610 --> 00:13:56,490
+Hoy la aplicación Facebook no es la estrella única de su casa. Instagram es la cultura. WhatsApp es la infraestructura. Messenger es el pasillo.
+
+74
+00:13:56,490 --> 00:14:03,090
+Facebook es la plaza de quienes crecieron con ella, y también un archivo. El álbum familiar del siglo veintiuno.
+
+75
+00:14:03,090 --> 00:14:16,230
+A mediados de 2026, Meta informa cerca de tres mil seiscientos millones de personas activas al día en el conjunto de sus plataformas. No es solo una red social. Es un sistema operativo de la vida cotidiana.
+
+76
+00:14:16,230 --> 00:14:24,730
+Y el precio de entrada nunca fue cero. El precio fuiste tú. Tus fotos. Tus amistades. La hora que ibas a usar en otra cosa.
+
+77
+00:14:24,730 --> 00:14:33,750
+Queda la pregunta que Facemash ya hacía, sin nombrarla, en un cuarto con la ventana fría. Qué pasa cuando le entregas a una máquina el mapa de quién eres.
+
+78
+00:14:33,750 --> 00:14:39,550
+La máquina aprende. Y aprende, sobre todo, a mostrarte solo el camino que te hace quedarte.
+
+79
+00:14:39,550 --> 00:14:47,590
+Si esta historia te sostuvo hasta aquí, quédate cerca. En InodeAI hacemos documentales para mirar el mundo con más calma y más filo.
+
+80
+00:14:47,590 --> 00:15:00,000
+Suscríbete. Activa la campana. Y dime en los comentarios qué capítulo te pareció el más increíble. El próximo empieza cuando tú llegas.

@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-Abre la portada y pulsa **Reproducir**. Dura alrededor de quince minutos. La barra, los capítulos y las teclas espacio y flechas controlan la narración.
+El archivo listo para YouTube está en [video/facebook-la-historia.mp4](video/facebook-la-historia.mp4) (15:00, 1280×720) con subtítulos en [video/facebook-la-historia.srt](video/facebook-la-historia.srt).
 
 ## Nota
 
